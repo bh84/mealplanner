@@ -1,0 +1,22 @@
+{
+  "name": "mealplanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bh84/mealplanner.git"
+  },
+  "author": "Bryan Holder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bh84/mealplanner/issues"
+  },
+  "homepage": "https://github.com/bh84/mealplanner#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
